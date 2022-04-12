@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #F8F8FF;
+    line-height: 1.5em;
+}
+h1{
+    background-color: #333;
+    color: white;
+    padding: 40px;
+    text-align: center;
+    margin-bottom: 20px;
+
+}
+#container{
+    width: 80%;
+    padding: 20px;
+    margin: auto;
+    text-align:center ;
+}
+
+.boxes{
+    border-bottom: 2px black solid;
+    margin: 50px auto;
+    padding-bottom: 40px;
+}
+
+button{
+    font-weight: bold;
+    background-color:black;
+    color: aliceblue;
+    width: 100px;
+    height: 50px;
+ 
+    margin-bottom: 20px;
+}
